@@ -1,8 +1,10 @@
 /*\ ____________________________
- * | [+]  Chat APP Client  [+]  | 
+ * | 	 ME 2 YOU APP   ^__^    |
+   | [+]  Chat APP Client  [+]  | 
  * |	  ---------------	|
  * |  This Program Made	By	|
  * |	Eslam Muhammed Elabd	|
+ * |https://github.com/Crypt00o |
  * |____________________________|
  \*/
 #include <stdio.h>
