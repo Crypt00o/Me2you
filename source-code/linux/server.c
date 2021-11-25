@@ -1,6 +1,6 @@
 /*\ ____________________________
  * |     ME 2 YOU APP   ^__^    |
-   | [+]  Chat APP Client  [+]  | 
+   | [+]  Chat APP Server  [+]  | 
  * |      ---------------       |
  * |  This Program Made By      |
  * |    Eslam Muhammed Elabd    |
