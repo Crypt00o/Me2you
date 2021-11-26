@@ -67,4 +67,4 @@ PATH=$PATH:$PWD
 me2you=$PWD
 echo "PATH=$PATH:$me2you" >> ~/.zshrc 2>/dev/null
 echo "PATH=$PATH:$me2you" >> ~/.bashrc 2>/dev/null
-bash
+exec $SHELL
