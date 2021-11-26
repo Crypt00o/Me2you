@@ -61,7 +61,7 @@ printf "${RED}"
 printf "\n\n now you can use :\n "
 printf "${GREEN}"
 printf "./server <port>  #example : ./server 8080 \n"
-printf "./client <ip> <port> #example : ./client 127.0.0.1 8080"
+printf "./client <ip> <port> #example : ./client 127.0.0.1 8080\n\n"
 printf "${STOP}"
 PATH=$PATH:$PWD
 me2you=$PWD
