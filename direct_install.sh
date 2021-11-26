@@ -63,3 +63,8 @@ printf "${GREEN}"
 printf "./server <port>  #example : ./server 8080 \n"
 printf "./client <ip> <port> #example : ./client 127.0.0.1 8080"
 printf "${STOP}"
+PATH=$PATH:$PWD
+me2you=$PWD
+echo "PATH=$PATH:$me2you" >> ~/.zshrc 2>/dev/null
+echo "PATH=$PATH:$me2you" >> ~/.bashrc 2>/dev/null
+bash
