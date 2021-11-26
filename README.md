@@ -1,5 +1,5 @@
 # Me2you
-Chat App In C
+Chat App In C Lang
 ---------- 
 *Author : Eslam Mohamed Elabd*
 --
