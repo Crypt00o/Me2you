@@ -1,14 +1,21 @@
-# Me-2-you
+# Me2you
 Chat App In C
 ---------- 
 *Author : Eslam Mohamed Elabd*
 --
+#Direct install on Linux
+---
+
+**` bash -c  "$(wget -O- https://raw.githubusercontent.com/Crypt00o/Me2you/main/direct_install.sh)" `**
+
+----
 #Install on Linux
 --
 
 **`git clone "https://github.com/Crypt00o/Me2you" ; cd Me2you ;source install.sh`**
 
 ---
+
 >**it was a chat console app written in c alow you
 To communicate with the other device on the
 Same network or out side the network
@@ -37,7 +44,7 @@ Under the gnu license .***
 ------
 **My accounts :**
 
->**github: https"//github.com/Crypt00o**
+>**github: https://github.com/Crypt00o**
 
 >**Facebook : https://www.facebook.com/eslam.mohamedelabd.1**
 
