@@ -5,7 +5,9 @@ Chat App In C
 --
 #Install on Linux
 --
-`git clone "https://github.com/Crypt00o/Me2you" ; cd Me2you ;source install.sh`
+
+**`git clone "https://github.com/Crypt00o/Me2you" ; cd Me2you ;source install.sh`**
+
 ---
 >**it was a chat console app written in c alow you
 To communicate with the other device on the
@@ -34,7 +36,11 @@ then connect client to server by
 Under the gnu license .***
 ------
 **My accounts :**
-***github: github.com/Crypt00o
-Facebook : https://www.facebook.com/eslam.mohamedelabd.1
-LinkedIn :https://www.linkedin.com/in/eslam-mohamed-elabd
-Twitter :***
+
+>**github: https"//github.com/Crypt00o**
+
+>**Facebook : https://www.facebook.com/eslam.mohamedelabd.1**
+
+>**LinkedIn :https://www.linkedin.com/in/eslam-mohamed-elabd**
+
+>**Twitter :@EslamMo97901639**
