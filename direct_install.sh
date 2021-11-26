@@ -32,11 +32,11 @@ printf "========================================="
 echo ' ';echo ' '
 sleep 5
 printf "${BLUE}"
-printf "\n[-] Starting Daownloading [-]"
+printf "\n[-] Starting Daownloading [-]\n"
 printf "${YELLOW}"
 git clone "https://github.com/Crypt00o/Me2you" ; cd Me2you
 printf "${GREEN}"
-echo "[+] Checking Device Arch [+] "
+echo "[+] Checking Device Arch [+] \n"
 printf "${YELLOW}"
 for i in {1..50} 
 do sleep 0.05 ;printf "."
