@@ -42,7 +42,7 @@ for i in {1..50}
 do sleep 0.05 ;printf "."
 done
 printf "${GREEN}"
-printf " [%%100] "
+printf " %%100 "
 sleep 2
 start(){
 machine=$(uname -m);
